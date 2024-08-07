@@ -1,0 +1,32 @@
+[
+    {
+        "question": "In the given figure ∠ACB is corresponding to which angle?",
+        "options": ["∠BCD", "∠FCD", "∠EFC", "∠DFG"],
+        "correct": 2,
+        "img": "./assests/images/1.jpg"
+    },
+    {
+        "question": "Are angles measuring 60° and 30° complementary or supplementary?",
+        "options": ["Complementary", "Supplementary"],
+        "correct": 0,
+        "img": "./assests/images/2.jpg"
+    },
+    {
+        "question": "Find out the angle which is corresponding to ∠7. Select the appropriate angle from the following choices.",
+        "options": ["∠5", "∠2", "∠3", "∠8"],
+        "correct": 2,
+        "img": "./assests/images/3.jpg"
+    },
+    {
+        "question": "Determine if these angles are corresponding or non-corresponding.",
+        "options": ["Corresponding", "Non-corresponding"],
+        "correct": 0,
+        "img": "./assests/images/4.jpg"
+    },
+    {
+        "question": "If one angle measures 20°, what is the measure of its complementary angle?",
+        "options": ["60°", "55°", "70°", "50°"],
+        "correct": 2,
+        "img": "./assests/images/5.jpg"
+    }
+]
